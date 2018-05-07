@@ -1,1 +1,5 @@
 *.npy
+/log
+.ipbyn_checkpoints
+**/*.pyc
+.DS_Store
